@@ -1,4 +1,4 @@
-"# Injection de d‚pendances en JEE" 
+
 ## Compte rendu de l'activite : Injection de dependances en JEE 
 Dans cette activite, j'ai mis en place une application JEE structuree en trois couches : DAO, Metier et Presentation. 
 La couche DAO s'occupe de la recuperation des donnees, la couche Metier realise le traitement, et la couche Presentation affiche le resultat. 
