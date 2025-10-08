@@ -1,5 +1,6 @@
-<img width="815" height="613" alt="image" src="https://github.com/user-attachments/assets/0530f236-1d3f-4157-9799-7b2b34e67bcc" />
-## Compte rendu de l'activite : Injection de dependances en JEE 
+
+## Compte rendu de l'activite : Injection de dependances en JEE <br>
+<img width="815" height="613" alt="image" src="https://github.com/user-attachments/assets/0530f236-1d3f-4157-9799-7b2b34e67bcc" /> <br>
 Dans cette activite, j'ai mis en place une application JEE structuree en trois couches : DAO, Metier et Presentation. 
 La couche DAO s'occupe de la recuperation des donnees, la couche Metier realise le traitement, et la couche Presentation affiche le resultat. 
  
