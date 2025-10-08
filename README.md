@@ -45,4 +45,5 @@ Spring se charge de l’injection sans instanciation manuelle ni fichier de conf
 L’utilisation de Spring m’a permis de comprendre comment le framework facilite la gestion des dépendances à grande échelle.  
 Grâce à lui, le **couplage faible** est entièrement respecté, et le code devient plus **modulaire, réutilisable et maintenable**.
 
+<img width="815" height="613" alt="image" src="https://github.com/user-attachments/assets/0530f236-1d3f-4157-9799-7b2b34e67bcc" />
 
